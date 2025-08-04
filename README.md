@@ -1,7 +1,7 @@
 # Job Application React Project Documentation
 
-![Job Application Portal](./screenshots/home-1.jpg)
-![Job Application Portal](./screenshots/home-2.jpg)
+![Job Application Portal](./screenshots/home_1.jpg)
+![Job Application Portal](./screenshots/home_2.jpg)
 ![Job Application Portal](./screenshots/jobPage.jpg)
 ![Job Application Portal](./screenshots/ApplicationFlow/apply_flow_1.jpg)
 ![Job Application Portal](./screenshots/ApplicationFlow/apply_flow_2.jpg)
