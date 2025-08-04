@@ -1,6 +1,5 @@
 # Job Application React Project Documentation
 
-screenshots/home_1.jpg
 ![Job Application Portal](./screenshots/home-1.jpg)
 ![Job Application Portal](./screenshots/home-2.jpg)
 ![Job Application Portal](./screenshots/jobPage.jpg)
